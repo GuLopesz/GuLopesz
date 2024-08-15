@@ -20,6 +20,8 @@
   
 </div>
 
+##
+
 ![snake gif](https://github.com/GuLopesz/Gulopesz/blob/output/github-contribution-grid-snake.gif)
 
 
