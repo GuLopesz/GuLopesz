@@ -1,6 +1,6 @@
 ## 👋 Welcome 
 
-- 📖 I'm currentrly studying Python
+- 📖 I'm currently studying Python
 - 📊 Future Data Engineer
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuLopesz&theme=tokyonight&show_icons=true) 
