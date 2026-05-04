@@ -6,11 +6,11 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GuLopesz?cardType=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card) 
 ## 🤖 I'm working with
- ```html
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,apacheairflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50"/>
 </p>
-```
 
 
 ## 📱 Social Media 
