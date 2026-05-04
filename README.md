@@ -1,16 +1,17 @@
 ## 👋 Welcome 
 
-- 📖 I'm currently studying Python
-- 📊 Future Data Engineer
+- 📊 Aspiting Data Engineer
+- 🛠️ Currently focused on Python and data-related technologies
+- 📚 Interested in Blockchain, Financial Market, and the Data Field
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GuLopesz?cardType=level&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GuLopesz?cardType=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card) 
 ## 🤖 I'm working with
- <div style="display: inline_block">
-   <img align="center" alt="py" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   <img align="center" alt="c" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-   <img align="center" alt="java" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-   <img align="center" alt="java" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
- </div>
+ ```html
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,apacheairflow" />
+</p>
+```
+
 
 ## 📱 Social Media 
  <div> 
