@@ -3,8 +3,7 @@
 - 📖 I'm currently studying Python
 - 📊 Future Data Engineer
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuLopesz&theme=tokyonight&show_icons=true) 
- 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GuLopesz?cardType=level&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card) 
 ## 🤖 I'm working with
  <div style="display: inline_block">
    <img align="center" alt="py" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
