@@ -4,7 +4,7 @@
 - 🛠️ Currently focused on Python and data-related technologies
 - 📚 Interested in Blockchain, Financial Market, and the Data Field
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GuLopesz?cardType=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GuLopesz?cardType=level&theme=gruvbox&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) 
 ## 🤖 I'm working with
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50"/>
