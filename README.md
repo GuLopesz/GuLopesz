@@ -1,6 +1,6 @@
 ## 👋 Welcome 
 
-- 📊 Aspiting Data Engineer
+- 📊 Future Data Engineer
 - 🛠️ Currently focused on Python and data-related technologies
 - 📚 Interested in Blockchain, Financial Market, and the Data Field
 
